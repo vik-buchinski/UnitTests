@@ -1,0 +1,7 @@
+E:\учебники\4 курс\kursovaya\project\Bank\BankTest\bin\Debug\BankTest.dll
+E:\учебники\4 курс\kursovaya\project\Bank\BankTest\bin\Debug\BankTest.pdb
+E:\учебники\4 курс\kursovaya\project\Bank\BankTest\bin\Debug\Bank.dll
+E:\учебники\4 курс\kursovaya\project\Bank\BankTest\bin\Debug\Bank.pdb
+E:\учебники\4 курс\kursovaya\project\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+E:\учебники\4 курс\kursovaya\project\Bank\BankTest\obj\Debug\BankTest.dll
+E:\учебники\4 курс\kursovaya\project\Bank\BankTest\obj\Debug\BankTest.pdb
